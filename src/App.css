@@ -1,0 +1,10 @@
+
+.container{
+  width: 70vw;
+}
+@media screen and (max-width:600px){
+  .btn{
+    margin-top: 30px;
+  }
+  
+}
